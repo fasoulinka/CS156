@@ -1,0 +1,163 @@
+song_id,title,artist,context_tags,spotify_id
+1,Girl Like Me,PinkPantheress,"girlypop, energetic, dance, funky, funny, Y2K, pink, purple, red, cute dresses, UK vibe, night, day, party, street diva, upbeat, cool flowers, girlies, mirror photo, goofy, nightclub, run",null
+2,Televised,HUNNY,"good life, smile, friends, hike, nature, park, streets, daytime, morning, warmth, sun, fresh, yellow, orange, green, blue, content, sky, grass, bright, travel, indie",null
+3,Mis Horas,Los Abuelos de la Nada,"cool, old, vintage, retro, Spanish, Argentina, wood, street, goofy, macho, laid back, relaxed, upbeat, nostalgic, cigarette smoker, guy walks, Latino",null
+4,Children,Robert Miles,"2000s, rich kids vibe, mansion, villa, NYC, Manhattan apartment, cars, iPhone 4, cash, money, old money, parties, classy, elegant, silver, gold, VIP, luxury, young, nostalgic, paparazzi, cool, reuniting with soul",null
+5,4 Minutes,"Madonna, Justin Timberlake, Timbaland","dance, active, workout, run, sexy, sweaty, action, moving, cool, Y2K, 2000s, classy, fashionable, colorful, fast, achieving, workout",null
+6,Shut Up And Drive,Rihanna,"girly, Y2K, cool, fast, dance, party, makeup, dresses, cars, independent, main character, Barbie, lipstick, run, cool hairstyle, get ready, pink, purple, elegant, shiny, confident",null
+7,A$AP Forever,"A$AP Rocky, Moby, T.I., Kid Cudi","cool, swag, freedom, movement, statement, confidence, majestic, clean, chains, streets, nature, big things, cars, people, dissociation, life, night, day, buildings, New York, big city life",null
+8,Shake Back,Kodak Black,"goofy, funny, chill, relaxed, swag, positive, friendly, on your own, cars",null
+9,Fall In Love,Phantogram,"night, desperate, angry, a bit romantic, suffering, blue, soft, hard, silver, black, dark blue, purple, trance-like state, night walk, drive, locking in, leather, strong",null
+10,I Like It,"Enrique Iglesias, Pitbull","party life, cool, happy, uplifted, strong, confident, sexy, hot, inspirational, Y2K, 2000s, enjoying, flow moment, like Old Spice, ayo this is my show","7dqZK5m1Z4J9zZJ9zZJ9zZ"
+11,M.I.A.,Feng,"cool, swag, niche taste, underground, young, rich, grey, black, white, minimalistic, chains, confidence, goofy, UK","2tQ3w6TfCcYs1UTdYpV953"
+12,Sacrifice,Elton John,"good moment, warm, family, love, people, reflecting life, nature, good day, calmness, nostalgia, road trip, sweet, sad, hugs, aesthetic, night walk, old-fashioned, vintage, retro",null
+13,Dream,Husbands,"sad but cool, idgaf vibe, acceptance, days, street, normal life, shirts, white, grey, static, moving",null
+14,Class Historian,BRONCHO,"young, summer, friends, cars, affection, reflection, enjoying small moments, sun, sea, beach, grass, sky, clouds, smiles, school",null
+15,Ma Quale Idea,Pino D'Angiò,"funky, groovy, cool, macho, European, café, street fashion, bold, confident, uplifted, yellow, red, green, night, day, restaurant, cars, sun, beach, cinematic, Italian",null
+16,Song For Denise,Piano Fantasia,"cars, cool, walking, confident, meme-like, showing off, wearing suit, men enjoying life, gracious, retro",null
+17,Love Lost,Mac Miller,"pink, white, light colors, sad, affectionate, love, romantic, friends, street, refreshing, opening window, moving to a new city, clean, lonely, new culture, aesthetic",null
+18,24K Magic,Bruno Mars,"party, friends, flexing, hyped up, night time, streets, cool places, neon lights, luxury, hot people, flirty mood, funky, groovy",null
+19,Smooth Operator,Sade,"sun, gold, 90s fashion, cool, free, bold, confident, luxury, palms, cars, love, flirt, city life, business, nostalgia, getting ready, classy look",null
+20,19-2000 (Soulchild Remix),Gorillaz,"funky, niche, indie, punky, 2000, cool, uplifting, moving, interesting, green, pink, purple, black, dark colors, goofy, happy, space, jungles, cartoonish, skaters, rockers, cool kids",null
+21,Omote,Yuki Chiba,"Asian, people, crazy rich, sushi, Japan, chains, cool bars, smoke, streets, oversized stuff, flexing, showing off, money, cling",null
+22,Get Down On It,Kool & The Gang,"funky, disco, cool, happy, funny, weekend, free, life is good, gold, dancing, old cities, vintage, goofy, ready for partying",null
+23,Cry Me A River,Justin Timberlake,"2000s, cool, hot, rich kids, flexing in a sad way, grey, white, party, evening, night, confident, rain through car, cheating",null
+24,Feel It All Around,Washed Out,"pink, purple, sky, aesthetic, vibey, night drive, nature, street, foggy, sad, reflective, thoughtful",null
+25,Bizarre Love Triangle,New Order,"cool, night walk, aesthetic, city lights, cars, rain, Europe, bars, drinks, fur fashion, costumes, suits, masquerade, divine, retro, 80s synth, vintage, blue, grey, red, black, normal life, technologic",null
+26,Born Slippy (Nuxx),Underworld,"nostalgic, broke and young, free, dirty, ripped, old, post-Soviet aesthetic, football boys, cyberpunk, video games, older brother core",null
+27,The Salmon Dance,The Chemical Brothers,"quirky, interesting, new, niche, ordinary life, cartoonish, movie, background music, reel intro, annoyed vibe, goofy",null
+28,Sluchaynaya,Ivan Dorn,"majestic, cool, separated, isolated, smoke, streets, night, car drive, mysterious, confident, slow reverb, locking in, focus, minimalist, fashion, groovy, like Daft Punk",null
+30,Could Be Wrong,Lostboy Jay,"house, rally cars, Zara playlist, dancing, moving, rising high, tall buildings, parties, inspiring, flow state, cooking (slang)",null
+31,Little L,Jamiroquai,"cool, fashion, vogue, good life, dancefloor, New York, Paris, Milan, magazines, shining, stylish, street, café, love",null
+32,Get Busy,Mr. Lee,"vogue, fashion, 90s house, cars, beating, people, flex, working, hustling, 90s swag, classy, dancing, moving, nighttime",null
+33,Crank,Playboi Carti,"swag, flex, black, rap, chains, street, attitude, black wear, fashion, minimalistic, cars, men",null
+34,My Jinji,Sunset Rollercoaster,"calm, dizzy, purple, aesthetic, sad, reconnect, flowers, water, nostalgic, daytime, quiet, affectionate",null
+35,Jasmine,DPR LIVE,"Korean vibe, fashion, minimalistic, cute, flowers, love, hugs, romantic, daytime, chemistry, lavender",null
+36,Déjà Vu,"Inna, Bob Taylor","sea, summer, beach, aquapark, fun, party, nostalgic, 2000s, Romanian pop, car drives, shashlik",null
+37,More More More,Andrea True Connection,"New York, classy life, adulthood, Sex And The City vibe, movie, normal life POV, pink, light blue, dresses, glamour, drinks, cocktails, good time",null
+38,Pop Star,"Coco & Clair Clair","solo, girly, bad attitude, nepo baby, model, cameras, irresponsible, cute, enjoying",null
+39,Sadnecessary,Milky Chance,"Woodstock, nature, reflection, chill, healthy, sad, melancholic, white, brown, cotton, forest",null
+40,À La Plage,Juniore,"French, chic, loose, morning, beach, Monday, boredom, repetitive routine",null
+41,La Fessée,Claire Laffut,"fashion, chic, streetstyle, cafés, croissants, influencer vibe, normal outfits, daytime, girly",null
+42,Tuesday,"iLoveMakonnen, Drake","drunk, smoked, clubs, people, night, street, blue, red, black, dark",null
+43,Whatcha See Is Whatcha Get,The Dramatics,"cinematic, walk, cooking, doing something, classy, street life, city life",null
+44,Dealer,"Lana Del Rey, Miles Kane","woman, agony, night, silence, nature, low contrast, obscure, sad, melancholic, weak, ragy, dark feminine, smoking",null
+45,How Soon Is Now?,The Smiths,"majestic vibe, godly, adventure, sun, wind, bold, confident, smells like men's perfume, trains, freedom, determination",null
+46,Hit 'Em Up,2Pac,"West Side, rap, hip-hop, 2000s, swag, cars, summer, Cali, wassup ayo, mafia, groovy",null
+47,Fauxllennium,"TV Girl, George Clanton","eye opening, indie, pink, purple, black, white, high contrast, artsy, cartoonish, big eyelashes, sky hues, big landscape",null
+48,A New Kind Of Love,"Frou Frou (Imogen Heap, Guy Sigsworth)","fresh start, morning, loving life, loving people, calmness inside, breathing, pink morning, kinda sad vibes too, mom's perfume",null
+49,DTMF,Bad Bunny,"family, sad, missing, Latino, travel, memories, love, friends, melancholic",null
+50,Set Adrift On Memory Bliss,PM Dawn,"life is good, hip-hop, chill, fashion, morning, sly, coffee, cafés, streets, wandering around",null
+51,Trix,Slater,"videogame-ish, trippy, young, cars, acidy, high contrast, confident, solo, electric",null
+52,Passin' Me By,The Pharcyde,"old-school hip-hop, vintage, fashiony, brown, dark, streets, favelas, graffiti, sleazy, cool, jazzy, artsy",null
+53,Instant Crush,"Daft Punk, Julian Casablancas","heartbreak, situationship, electric, dark, loner, blue, silvery, sharp, melancholia, love, affection",null
+54,My Sharona,The Knack,"moving, active, rock, high energy, romantic, hot, on edge, vintage, cool vibe",null
+55,Beep Boop,Meaningful Stone,"boredom, lo-fi, calm, blue, girly, solo days, walks, sports, blue filter vibe",null
+56,Love Me,The 1975,"indie rock, gay vibes, glam, pink, shiny, cool, confident, dizzy, artistic, expressive, blue nail polish",null
+57,Celebrity Skin,Hole,"streets, young, indie sleaze, leather jackets, black jeans, parties, smoking",null
+58,She Needs Him,Her's,"affection, flowers, pink, nights, sweets, sweaters, twilight, morning, spring, streets",null
+59,Heaven or Las Vegas,Cocteau Twins,"weird, artsy, interesting, skies, lakes, horses, emotional, detached, dreamcore",null
+60,Eve Psyche & The Bluebeard's Wife,LE SSERAFIM,"baddies, girly, Korean, parties, confidence, fast",null
+61,Take My Breath Away,Berlin,"nostalgic, love, affection, mysterious, like chocolate, streets, Europe, 90s",null
+62,Beercan,Beck,"punky, Gorillaz style, repetitive routine, places, loud, teen, beer, idgaf attitude",null
+63,Panama,Sports,"indie, love, life is good, calm, relaxed, nature, food, friends, bright",null
+64,Sept Jours Exactement,Evelyne Brochu,"Eat Pray Love vibe, flowers, feminine, clean girl aesthetic, hopeful, organized, tidy",null
+65,Past Life,Tame Impala,"nostalgic, electric, past, night, aesthetic, reflective, thoughtful",null
+66,La Mer À Boire,Julien Granel,"French, chic, bar nightlife, streets, sea vibe, modern, eclectic",null
+67,Enjoy The Silence,Depeche Mode,"night walk, confident, 90s coolness, cold, solo, attitude, mysterious, mint darkness",null
+68,Crush,Jennifer Paige,"adult, woman, flirt, mystery, red dress, chic cafés",null
+69,Embrace,Pastel Ghost,"dark, vapor, walk, purple, night, reflection, locking in, focus, thoughts",null
+70,Sympathy Is A Knife,Charli XCX,"aggressive, clubbing, green, brat summer, gays and girls, parties, flash cameras",null
+71,Superstylin',Groove Armada,"cool, style, tropical, interesting, flow, moving, streets, lights, anytime",null
+72,Fade Into You,Mazzy Star,"romantic, melancholic, drunk in love, intimate, weak, longing, purple, red, black, white, girlhood, hearts",null
+73,Still Beating,Mac DeMarco,"sad, warm light, melancholic, circling, dizzy, regretting, evening, outside, inside, calm, sad love",null
+74,Kingston,Faye Webster,"charming, calm, sweet, salty, dreamy, romantic, fireside, warm, slow, eyes, street influencer vibe, hot chocolate",null
+75,Cigarettes Out The Window,TV Girl,"cigarettes, lighter, street runs, evening, night, dark colors, mystery, drama, TV movie poster",null
+76,Me and Your Mama,Childish Gambino,"blue, shining, night, darkness, heartbeat, romantic, charming, bars, stars",null
+77,For You,TV Girl,"sweet, cute, loving, pink, hearts, forests, raindrops, mystery, small, unknown, detached",null
+78,Tongue Tied,Grouplove,"friends, frenzy, groups, fun, teams, sports, memories, photos, parties, birthdays",null
+79,Wicked Game,Chris Isaak,"dark, feminine, sunset, cigars, city life, bars, night wandering, men, serious, rich life, high quality, hit",null
+80,3005,Childish Gambino,"pink, clubs, people, having fun, love, streets, city life, house parties, new stuff, god attitude",null
+81,Champagne,311,"streets, wandering, day, bars, niche, drinks, California, sad, angry",null
+82,Exit Music (For a Film),Radiohead,"weird images, dissociation, fish, haunting, surreal",null
+83,C U Girl,Steve Lacy,"love, romantic, street style, aesthetic, longing, brown colors, cities, groovy, confident",null
+84,We Fell In Love In October,Girl In Red,"romantic, fall, smokes, nature, forest, cozy blanket, friends, lovers, red",null
+85,Pretty Boy,The Neighbourhood,"calm, cozy, weak, lazy, minty, grey, dizzy, repetitive, love",null
+86,Unwritten,Natasha Bedingfield,"movie-like, 2000s, New York, streets, city, cafés, girly",null
+87,Locked In Love,Saam Sultan,"locking in, feeling, underground, minimalistic, night, cars, watches, swag, tall men vibe",null
+88,I'll Do It,Heidi Montag,"pop queen, hot, woman, girl, dresses, pink, red, night out, cool vibe, rizz, confidence, light flash",null
+89,Good Kisser,Usher,"cool, working, creating, magical, sexy, swagger, thirst trap, edit, charismatic, nonchalant",null
+90,Alors On Danse,Stromae,"sad, moving, anger, party, 2000s vibe, drunk, nighttime, cars, cigarettes",null
+91,Lovefool,The Cardigans,"girlhood, 90s, classy, sad, melancholic, flirty, british",null
+92,Locked Out Of Heaven,Bruno Mars,"life, moving, streets, cities, love, reckless, smoke, summer, spring, warm, fun, smiles, nostalgia",null
+93,Upside Down,Jack Johnson,"kind, nice, sweet, life goes on, cooking, home, people, streets, travel, nice day, beauty, birds, animals, movie, happy walk",null
+94,Louise,TV Girl,"charmed by beauty, small things, café hopping, cute dresses, kinda sad, mesmerized, doll-like",null
+95,100% Pure Love,Crystal Waters,"dance, moving, confident, chic, money, queen, fashionista",null
+96,Boy's a Liar Pt. 2,"PinkPantheress, Ice Spice","cute, goofy, trendy, girly, chill",null
+97,Vanished,Crystal Castles,"trendy, night, game-like, stressed, not uplifting, flowy, focus, workout, study, work, darkwave",null
+98,Kids,MGMT,"cute, kids, scary, cinematic, memories, caring, electric",null
+99,Are We Still Friends?,Tyler The Creator,"vintage, performative, matcha, sunset, aesthetic, clouds",null
+100,Caribbean Blue,Enya,"cinematic, Caribbean, morning, medieval, classic, focus, nature, dreamcore",null
+101,Orinoco Flow,Enya,"cinematic, moving, uplifting, beautiful, art, travel, tea, study, magical, like from a book",null
+102,Like a Tattoo,Sade,"cinematic, nature, sun, arts, love, longing, mountains, flowers, diamonds",null
+103,What's Luv?,"Fat Joe, Ashanti","chill, goofy, street style, lovable, charming, cartoony, 2000s aesthetic",null
+104,You Should Be Dancing,Bee Gees,"cinematic, groovy, night walk, cool, sleazy, having fun, bars, happy, confident, enjoying, feel-good",null
+105,Spokoinaya Noch',Kino,"calm, night, snow, Soviet vibes, smoke, alone, loner, cold, forest, dark, moon",null
+106,Flash,2hollis,"YOLO, flash, teens, clubs, dark, white shirt, main character, friends, indie sleaze, tiktok vibe",null
+107,Lemon Glow,Beach House,"aesthetic, mesmerizing, swaggy, magical",null
+108,My Style,Black Eyed Peas,"goofy, funny, stylish, good mood, chill, groovy, streets",null
+109,Karma,Taylor Swift,"2020s nostalgia, pink, disco lights, shiny, low effort, party, sad, self-oriented, swiftie, light blue",null
+110,Mess Around,Cage The Elephant,"angry, rock, moving, active, running, outside, California, blue eyes",null
+111,Young Blood,The Naked and Famous,"cinematic, teens, memories, nature, nostalgic",null
+112,Starry Night,Peggy Gou,"aesthetic, seaside, stars, rich, blue, sea, green, islands, travel",null
+113,Gassed Up,Nebu Kiniza,"wassup, ayo, funny vibe, cars, night, young boys, swagger",null
+114,Feels Like We Only Go Backwards,Tame Impala,"reflective, nature, places, memories, meaningful, lonely",null
+115,Even Flow,Pearl Jam,"smooth, flow state, massive, cool, testosterone, Americana",null
+116,Cayenne,Valentin Strykalo,"Russian rock, sleazy, attitude, cool, streets",null
+117,My Favourite Game,The Cardigans,"dance, move, girls, women, rage, city life, café hopping, elegant, fast",null
+118,Baby I'm Yours,Arctic Monkeys,"romantic, café date, flowers, couple, teddy bear",null
+119,Kairan Konil,Batyrkhan Shukenov,"Kazakh, sadness, missing, reflective",null
+120,Can You Hear The Music,Ludwig Göransson,"study, lock in, nature, greatness, beauty, sky, galaxies, stars, unbelievable, cinematic",null
+121,Gymnopédie No. 1,Erik Satie,"sad, repetitive, cinematic, soft piano, dreamy minimalism",null
+122,Mary's Theme,Stelvio Cipriani,"beautiful, charming, cinematic, jazzy, calm, whispering, café, fine dining, sea",null
+123,Silhouettes,Loopgarden,"cinematic, fine dining, fine evenings, high quality, jazzy, cooking, pasta, wine, cocktail dresses",null
+124,Deep In It,Berlioz,"jazzy, café, evening, night lights, show, elegance",null
+125,Tell Her No,The Zombies,"dreamy, street, European cafés, stylish, eye shades",null
+126,Lost & Found,Jorja Smith,"R&B, girl, reflection, minimalistic, soul, lights, blinking, self-care",null
+127,California,Mylène Farmer,"aesthetic, chic, makeup, hair blowing, wind, train stations, tickets, California, sea, palms",null
+128,The Lovecats,The Cure,"cats, mysterious, streets, playful, quirky, gothic charm",null
+129,Vent,Noit,"house, aggressive, rally, sports, cool, energy, focus, Red Bull, jumping, swagger",null
+130,Ameyatchi,Mathey,"content, happy, nature, food, wholesome vibe, african",null
+131,4:00 A.M.,Taeko Onuki,"Japanese, 80s, retro, fun, city night, soft aesthetic",null
+132,Under My Thumb,The Rolling Stones,"aesthetic, city life, café hopping, vintage, routine, film vibe",null
+133,Scooby's In The Back,HalfNoise,"adventurous, flowy, moving, rock, evening, green, no mood",null
+134,Dos Locos,Monchy & Alexandra,"loco, Latino vibe, streets, jungles, palms, tango, GTA vibe",null
+135,Restless,Kakkmaddafakka,"run, indie, streets, roads, walking, working, busy, indie, converse, skater",null
+136,Rx Queen,Deftones,"dark, shoegaze, weirdo, niche, chronical, cigarette, sick, tired, angry",null
+137,Fluorescent Adolescent,Arctic Monkeys,"punk, rock, brit rock, indie sleaze, leather jacket, eyeglasses, alternative, youth, alcohol, wood, boots",null
+138,Blinding Lights,The Weeknd,"neon, synthwave, night drive, 80s retro, purple, pink, speed",null
+139,Roses,Saint Jhn,"romantic, mysterious, red, passion, late night, streets, intimate",null
+140,Money Trees,Kendrick Lamar,"west coast, palm trees, gold, luxury, California dreams, rap",null
+141,Robbers,The 1975,"cinematic, crime, black and white, dramatic, love story, indie rock",null
+142,Midnight City,M83,"dreamy, synth, nostalgic, urban nights, saxophone, atmospheric",null
+143,Electric Feel,MGMT,"psychedelic, colorful, trippy, electric, groovy, vibrant",null
+144,Levels,Avicii,"uplifting, festival, energy, electronic, euphoric, crowd, lights",null
+145,Runaway,"Kanye West, Pusha T","orchestral, dramatic, piano, reflective, epic, cinematic",null
+146,Somebody That I Used To Know,Gotye,"indie, melancholic, breakup, artistic, quirky, emotional",null
+147,Take On Me,a-ha,"80s, animated, sketch art, upbeat, nostalgic, synth-pop",null
+148,Sweet Dreams,Eurythmics,"dark synth, mysterious, orange, industrial, powerful, iconic",null
+149,Blue Monday,New Order,"electronic, dance, 80s, blue, cold, minimal, club",null
+150,Video Games,Lana Del Rey,"vintage Americana, sad, nostalgic, dreamy, cinematic, melancholic",null
+151,Siesta Freestyle,"Lewis OfMan, Alicia te quiero","fashion chic, niche taste, influencer, Europe, cafes, elegant, relaxed",null
+152,Virtual Insanity,Jamiroquai,"funky, stylish, 2000, new, technology, fashion, new york, radio",null
+153,The lady in red,Chris de Burgh,"red, red dress, night, prom, ball, slow dance, hearts, romantic, valentines, retro, loving",null
+154,Ode to my family,Zombies,"sad, family, missing, longing, mother, father, brother, sister, home, homesick, rainy, melancholic, movie, old place, 90s",null
+155,Frozen,Madonna,"elegant, ethereal, beauty, shine, 90s, scents, style, fashion, blue makeup",null
+156,Fever,Fakemink,"tiktok, underground, bad quality, youth, indie sleaze, dark, smoke, cigarettes, illegal, pink, bunny, swag, fur coats",null
+157,Strawberry,Doss,"pretty, morning, fresh, nature, dazzled, sleepy, breakfat, sky, clouds, rivers",null
+158,I'm not in love,10cc,"sad, heartbreak, nonchalant, cool, calm, breath, wind, grey, dark, nature dark green, love",null
+159,The Party,Portraits of Tracy,"mesmerizing, sad, purple, blue, youth, beats, evening, walk, cool, aesthetic",null
+160,Teenage kicks,The Undertones,"punky, garage, teens, cool, dark, grey, guitar, retro, vintage, brutal",null
+161,Do you want to know a secret?,The Beatles,"beatles, anyone from beatles, 70s, retro, old, guitar, old rock, frame with photo",null
+162,Technologic,Daft Punk,"electronic, robotic, tech, futuristic, robots, technologic, math, graphs, new age, ai, industrial, modern, innovative, metallic, digital",null
+163,One more time,Daft Punk,"electronic, cool, energy, life, greatness, power, party, new age, futuristic, uplifting, euphoric, dance, retro, celebratory"
