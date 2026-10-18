@@ -1,32 +1,35 @@
-# 777 Radio — CS156 First Pipeline (draft)
+# CS156 — First Pipeline: 777 Radio
 
-This repository contains an early research pipeline based on my existing image-to-music app, **777 Radio**.
+## Final submission
 
-## Research question
-Can a model learn to generate my personal aesthetic song tags from measured audio, reducing manual annotation while preserving image-to-song recommendation quality?
+**[Open my completed First Pipeline notebook](CS156_Pipeline.ipynb)**
 
-## Current evidence
-- `music-dataset.csv`: 162 manually tagged songs from my app.
-- `777_radio_exploration.ipynb`: executed exploratory notebook with CSV inspection, tag frequencies, and a held-out song split.
-- `assignment_draft.pdf`: proposal and experiment design.
-- `unit_review_slide.pptx`: one-slide review of train/test split and overfitting.
+This is my final CS156 machine learning pipeline, including the executed code, saved outputs, visualizations, mathematical explanations, model comparisons, error analysis, discussion, references, and ethical considerations.
 
-## Important limitations
-The CSV contains **no audio recordings**. The original app's energy, tempo, and valence are randomly generated placeholders, not measured acoustic features. **No sound-based classifier has been trained or evaluated yet.**
+## Project overview
 
-## Planned experiment
-1. Obtain legally accessible audio.
-2. Extract real acoustic features per song.
-3. Predict multiple aesthetic tags using baseline, logistic regression, and SVM.
-4. Compare held-out predictions with human labels.
-5. Optionally replace the paid image-description API with a locally run pretrained image encoder.
+I built 777 Radio, an image-to-song recommendation app that uses aesthetic tags I manually assign to songs. This project investigates whether machine learning can predict those tags directly from audio, reducing the need to tag every new song by hand.
 
-## Run notebook
-```bash
-pip install pandas numpy matplotlib scikit-learn jupyter
-jupyter notebook 777_radio_exploration.ipynb
-```
+I started with 162 songs from my personal collection and matched 145 to audio recordings. I extracted 33 handcrafted audio features and 512-dimensional pretrained CLAP embeddings.
 
-## References
-- My existing 777 Radio source archive, `vibe-match-app-3.zip` (not bundled here).
-- CS156 Generated Forum Code Workbook (course material).
+I compared logistic regression, decision trees, SVMs, and baseline approaches to predict three broad aesthetic categories. I also tested several approaches for recommending exact personal tags, including nearest neighbors, popularity-based predictions, and CLAP zero-shot matching.
+
+The notebook includes a 115-song training set, a 30-song held-out test set, cross-validation, feature ablation experiments, and an analysis of why certain approaches performed poorly.
+
+## Repository files
+
+- **`CS156_Pipeline.ipynb`** — Final executed notebook. **This is the file to grade.**
+- `777_radio_exploration.ipynb` — Preliminary data exploration and experiment planning.
+- `music-dataset.csv` — Original personal song-tag dataset.
+- `assignment_draft.pdf` — Earlier project proposal, before the experiments were completed.
+- `unit_review_slide.pptx` — Previous course material, not part of this submission.
+
+## Reproducibility and data
+
+The notebook contains saved outputs from the completed experiments. Re-running the full audio pipeline requires access to the original audio files and appropriate Google Drive paths.
+
+The copyrighted MP3 recordings are not distributed in this repository. The dataset contains my personal aesthetic labels, so results reflect my own preferences rather than universal descriptions of music.
+
+## Project context
+
+777 Radio app: https://777radio.vercel.app/
